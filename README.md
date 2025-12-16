@@ -10,4 +10,4 @@ It's a simple test using **binary search**.
 ---
 
 ## 1. Download
-🍯 [Download](https://github.com/ulsidae/test/releases/download/test/binary_search_cat_game.exe)
+🍯 [Download](https://github.com/ulsidae/test/releases/download/test)
