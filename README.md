@@ -10,4 +10,4 @@ It's a simple test using **binary search**.
 ---
 
 ## 1. Download
-🍯 [Download](https://github.com/ulsidae/test/releases/download/tㅁㅎ/ㅅㄷㄴㅅ)
+🍯 [Download](https://github.com/ulsidae/test/releases/download/tag/test)
