@@ -1,4 +1,7 @@
-# 🐻🍯 testing
+> [!note]
+>
+> It was a simple experiment to check readme.md & distribute.
+
 
 It's a simple test using **binary search**.
 
